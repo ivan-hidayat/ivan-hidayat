@@ -207,13 +207,13 @@
 ## <div align="center">HUBUNGI SAYA</div>
 
 <div align="center">
-  <a href="https://wa.me/yourusername" target="_blank">
+  <a href="https://wa.me/6285747409383?text=Hallo+I+want+to+ask+something+about+the+script" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://t.me/yourusername" target="_blank">
+  <a href="https://t.me/reijixor" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
+  <a href="https://instagram.com/ivann.hidyaat" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
@@ -227,7 +227,7 @@
       <tr>
         <td>
           <h3>Untuk Keperluan Bisnis</h3>
-          <p>Hubungi saya melalui email bisnis di <b>ivan.business@example.com</b></p>
+          <p>Hubungi saya melalui email bisnis di <b>aiovannn@gmail.com</b></p>
         </td>
       </tr>
       <tr>
