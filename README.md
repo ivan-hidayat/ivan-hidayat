@@ -251,7 +251,7 @@
 ## <div align="center">DUKUNGAN</div>
 
 <div align="center">
-  <a href="https://saweria.co/ivanhidayat" target="_blank">
+  <a href="https://saweria.co/ivannhidayat" target="_blank">
     <img src="https://img.shields.io/badge/Saweria-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Saweria">
   </a>
 </div>
